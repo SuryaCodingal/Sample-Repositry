@@ -1,3 +1,7 @@
 sd 
 dnkkng 
+<<<<<<< HEAD
 This is the 3rd line 
+=======
+This is a change from remote repositry 
+>>>>>>> cc5f5befee1702eba6b3c344130b2150d75e2cd3
